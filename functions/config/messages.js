@@ -3,7 +3,7 @@ const messages = {
         translation: {
             'WELCOME': 'Willkommen zu Hack The Crisis.',
             'FALLBACK': 'Keine Ahnung.',
-            'HELP': 'Hilfe.'
+            'HELP': 'Ich helfe gerne.'
         }
     }
 };
