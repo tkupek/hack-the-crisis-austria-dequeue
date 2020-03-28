@@ -10,6 +10,7 @@ const ResponseBuilder = {
         });
     },
     defaultText: function(agent, text){
+        text = '<speak>' + text + '</speak>';
         AnalyticsTracker.trackIntent(agent).then(function () {
             agent.add(text);
         });
