@@ -1,5 +1,9 @@
 const ua = require('universal-analytics');
 const Config = require('../config/config');
+const HelperFunctions = require('../util/helperFunctions');
+const {
+    v1: uuidv1
+} = require('uuid');
 
 let visitor;
 
@@ -8,13 +12,12 @@ const AnalyticsTracker = {
         if (visitor)
             return true;
 
-        let userId = agent.context.get('userId');
-        console.log(userId);
-        let id = userId.parameters['id'];
+        let context = agent.context.get('userId');
+        let userId = context ? context.parameters.id : uuidv1();
         visitor = ua(Config.analyticsTrackingId, {
             uid: userId
         });
-        console.log("init visitor" + id);
+        console.log("init visitor " + userId);
         return true;
     },
     trackIntent: function (agent) {
@@ -41,7 +44,7 @@ const AnalyticsTracker = {
             resolve(visitor.pageview(param).send());
         });
     },
-    trackEvent: async function (agent, category, label, value, parameter) {
+    trackEvent: async function (agent, category, action, label) {
         if (!AnalyticsTracker.initVisitor(agent)) {
             return new Promise(function (resolve) {
                 return resolve();
@@ -56,16 +59,15 @@ const AnalyticsTracker = {
         }
 
         let params = {
-            ec: category,
-            ea: action,
-            el: label,
-            ev: value,
-            dp: intent
+            ec: "Event Category",
+            ea: "Event Action",
+            el: "…and a label",
+            ev: 42,
+            dp: "/contact"
         };
 
-        console.log("track Event" + JSON.stringify(params));
         return new Promise(function (resolve, reject) {
-            return resolve(visitor.event(params).send());
+            console.log("track Event" + JSON.stringify(params));
         });
     }
 };

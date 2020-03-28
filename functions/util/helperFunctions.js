@@ -1,6 +1,21 @@
 const Config = require('../config/config');
+const {
+    v1: uuidv1
+} = require('uuid');
 
 const HelperFunctions = {
+
+    generateUserId: function(agent){
+        console.log("generate new uid");
+        let userId = uuidv1();
+        agent.context.set({
+            'name': 'userId',
+            'lifespan': 1000,
+            'parameters': {
+                'id': userId
+            }
+        });
+    },
     getParameters: function (agent, name) {
         let context = agent.context.get(name);
         return context ? context.parameters : false
@@ -44,15 +59,23 @@ const HelperFunctions = {
         return 'TEST_' + (stateNum + 1);
     },
     getHealthStatus: function (agent) {
+        // TODO update according to final mapping
         let statusMap = this.getParameters(agent, 'health').statusMap;
-        let statusCounter = 0;
+        let points = 0;
 
         Object.keys(statusMap).forEach(function(key) {
             if (statusMap[key]){
-                statusCounter++;
+                points += statusMap[key];
             }
         });
-        return statusCounter < 2;
+
+        risk = points / Config.maxPoints;
+
+        if (risk >= 0.66)
+            return 'UNHEALTHY';
+        else if (risk <= 0.33)
+            return 'HEALTHY';
+        return 'RISK';
     }
 };
 
