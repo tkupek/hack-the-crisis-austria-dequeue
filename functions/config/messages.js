@@ -1,7 +1,7 @@
 const messages = {
     'de': {
         translation: {
-            'WELCOME': 'Willkommen bei der Corona Gesundsheitsnummer. Haben Sie allgemeine Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne?',
+            'WELCOME': 'Willkommen bei der Corona Gesundsheitsnummer. Haben Sie allgemeine Fragen, einen Verdacht auf Infektion oder sind Sie unter ärztlich verordneter Quarantäne?',
             'FALLBACK': 'Entschuldigung, das habe ich leider nicht verstanden. Sagen Sie \'verbinden\', um direkt mit der Gesundsheitsnummer verbunden zu werden.',
             'FALLBACK_UNKNOWN': 'Bitten antworten Sie mit Ja oder Nein.',
             'HELP': 'Haben Sie allgemeine Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne? Sagen Sie \'verbinden\', um direkt mit der Gesundsheitsnummer verbunden zu werden.',
