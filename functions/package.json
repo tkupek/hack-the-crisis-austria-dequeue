@@ -25,6 +25,8 @@
     "locale": "^0.1.0",
     "lodash": "^4.17.15",
     "robust-point-in-polygon": "^1.0.3",
+    "universal-analytics": "^0.4.20",
+    "uuid": "^7.0.2",
     "xml2js": "^0.4.22"
   }
 }
