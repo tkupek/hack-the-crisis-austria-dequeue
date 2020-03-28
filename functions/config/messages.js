@@ -10,6 +10,7 @@ const messages = {
             'FAQ_FOOD': 'Auf Basis bisheriger Risikobewertungen ist eine Übertragung des Virus über Lebensmittel nicht möglich. Das bedeutet die Lebensmittel in Österreich sind sicher.',
             'FAQ_TEST_ANIMALS': 'Derzeit gibt es keine speziellen Tests für Tiere, da nach aktuellen Kenntnissen Haustiere nicht erkranken bzw. Menschen infizieren können.',
             'FAQ_INFECTED_ANIMALS': 'Es gibt aktuell keine Hinweise, dass Haustiere erkranken können bzw. Menschen infizieren.',
+            'FAQ_RISKGROUP': 'Als Risikogruppe gelten Menschen über 65 Jahre sowie Personen mit chronischen Vorerkrankungen jeden Alters. Diese Gruppe schließt auch jüngere Menschen ein. Unabhängig vom Alter steigt für Personen mit Lungenerkrankungen und chronischen Vorerkrankungen die Wahrscheinlichkeit einer Erkrankung mit schwerem Verlauf.',
             'FAQ_CLOSE_CONTACT': 'Enger Kontakt ist definiert als direkter, physischer Kontakt, Kontakt von Angesicht zu Angesicht mit einer Dauer von über 15 min und einem Abstand von unter 2 Meter. Außerdem ein Aufenthalt im selben geschlossenen Raum mit einer Dauer von über 15 min und einem Abstand von unter 2 Meter.',
             'TEST_INTRO': 'Für den Corona Selbsttest, beantworten sie bitte die folgenden Fragen gewissenhaft.',
             'TEST_0': 'Waren Sie in den letzten 14 Tagen in einem Risikogebiet?',

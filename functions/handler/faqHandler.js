@@ -10,7 +10,7 @@ const handler = {
         intentMap.set('FAQ Intro', handler.intro);
         intentMap.set('FAQ Close Contact', handler.closeContact);
         intentMap.set('FAQ Food', handler.food);
-        intentMap.set('FAQ Risk Group', handler.food);
+        intentMap.set('FAQ Risk Group', handler.riskgroup);
         intentMap.set('Quarantine Intent', handler.quarantine);
         intentMap.set('Connect Hotline', handler.connectHotline);
         return intentMap;
@@ -32,6 +32,9 @@ const handler = {
     },
     food: function(agent) {
         ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_FOOD') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    riskgroup: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_RISKGROUP') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
     },
     quarantine: function(agent) {
         ResponseBuilder.default(agent, 'QUARANTINE');
