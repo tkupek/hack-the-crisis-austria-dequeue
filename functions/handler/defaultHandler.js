@@ -41,7 +41,7 @@ const handler = {
     no: function (agent) {
         let state = HelperFunctions.getState(agent);
         if (!state) {
-            handler.fallback(agent);
+            ResponseBuilder.default(agent, 'NO_FINISH');
             return
         }
         

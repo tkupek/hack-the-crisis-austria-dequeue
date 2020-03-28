@@ -34,7 +34,8 @@ const messages = {
             'QUARANTINE': 'Zur Erfassung ihrer aktuellen Daten leiten wir sie an die zuständige Stelle weiter. Bitte warten. Die Demo endet hier.',
             'FAQ_INTRO': 'Bei welcher Frage kann ich helfen?',
             'CONNECT_HOTLINE': 'Wir leiten Sie jetzt an die Gesundsheitsnummer weiter. Bitte warten. Die Demo endet hier.',
-            'MORE_QUESTIONS': ' Haben Sie weitere Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne?'
+            'MORE_QUESTIONS': ' Haben Sie weitere Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne?',
+            'NO_FINISH': 'Wenn Sie keine weiteren Fragen haben, legen Sie einfach auf.'
         }
     }
 };
