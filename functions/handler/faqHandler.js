@@ -11,6 +11,16 @@ const handler = {
         intentMap.set('FAQ Close Contact', handler.closeContact);
         intentMap.set('FAQ Food', handler.food);
         intentMap.set('FAQ Risk Group', handler.riskgroup);
+        intentMap.set('FAQ Activities', handler.activity);
+        intentMap.set('FAQ Corona Test', handler.coronaTest);
+        intentMap.set('FAQ Corona Test No Symptoms', handler.coronaTestNoSymptoms);
+        intentMap.set('FAQ Corona Test Cost', handler.coronaTestCosts);
+        intentMap.set('FAQ Treatment', handler.treatment);
+        intentMap.set('FAQ Events', handler.events);
+        intentMap.set('FAQ Employment Law', handler.employment);
+        intentMap.set('FAQ Regulations', handler.regulations);
+        intentMap.set('FAQ Border Control', handler.border);
+        intentMap.set('FAQ Masks', handler.masks);
         intentMap.set('Quarantine Intent', handler.quarantine);
         intentMap.set('Connect Hotline', handler.connectHotline);
         return intentMap;
@@ -35,6 +45,36 @@ const handler = {
     },
     riskgroup: function(agent) {
         ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_RISKGROUP') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    activity: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_ACTIVITY') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    coronaTest: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CORONA_TEST') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    coronaTestNoSymptoms: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CORONA_TEST_NO_S') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    coronaTestCosts: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CORONA_TEST_COSTS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    employment: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_EMPLOYMENT') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    treatment: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_TREATMENT') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    events: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_EVENTS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    regulations: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_REGULATIONS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    masks: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_MASKS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+    },
+    border: function(agent) {
+        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_BORDER') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
     },
     quarantine: function(agent) {
         ResponseBuilder.default(agent, 'QUARANTINE');
