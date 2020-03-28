@@ -49,7 +49,8 @@ const handler = {
     },
     unknown: function (agent) {
         let state = HelperFunctions.getState(agent);
-        if (!state || !Config.allowUnknownAnswer.includes(state)) {
+
+        if (!state) {
             ResponseBuilder.default(agent, 'FALLBACK_UNKNOWN');
             return
         }

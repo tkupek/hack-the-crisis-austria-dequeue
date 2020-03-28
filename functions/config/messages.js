@@ -1,9 +1,9 @@
 const messages = {
     'de': {
         translation: {
-            'WELCOME': 'Willkommen bei der Corona Gesundsheitsnummer. Haben Sie allgemeine Fragen, einen Verdacht auf Infektion oder sind Sie unter ärztlich verordneter Quarantäne?',
+            'WELCOME': 'Willkommen bei der Corona Gesundheitsnummer. Um Allgemeine Fragen zu stellen antworten Sie mit \'Allgemeine Fragen\', um einen Selbsttest zu starten antworten Sie mit \'Test starten\'.',
             'FALLBACK': 'Entschuldigung, das habe ich leider nicht verstanden. Sagen Sie \'verbinden\', um direkt mit der Gesundsheitsnummer verbunden zu werden.',
-            'FALLBACK_UNKNOWN': 'Bitten antworten Sie mit Ja oder Nein.',
+            'FALLBACK_UNKNOWN': 'Bitte antworten Sie mit Ja, Nein oder Vielleicht.',
             'HELP': 'Haben Sie allgemeine Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne? Sagen Sie \'verbinden\', um direkt mit der Gesundsheitsnummer verbunden zu werden.',
             'FAQ_DANGER_ZONE': 'Zu den Risikogebieten in Österreich zählen aktuell: Tirol, in Vorarlberg die Gemeinden Lech, Zürs, Stuben, Warth und Schröcken und in Kärnten die Gemeinde Heiligenblut. Die vollständige Liste der internationalen Risikogebiete finden Sie im Internet auf tirol<say-as interpret-as="verbatim">.gv.at</say-as>.',
             'FAQ_PREGNANT': 'Derzeit ergeben sich keine Hinweise, dass Schwangere durch eine Covid-19-Erkrankung mehr gefährdet sind als andere Personen: Bisherige Erfahrungen zeigen, dass Schwangere im Falle einer Erkrankung nur leichte bis mittelschwere Symptome aufweisen.',
