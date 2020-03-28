@@ -1,7 +1,7 @@
 const Config = require('../config/config');
 
 const HelperFunctions = {
-    getParameters: function(agent, name){
+    getParameters: function (agent, name) {
         let context = agent.context.get(name);
         return context ? context.parameters : false
     },
@@ -18,20 +18,40 @@ const HelperFunctions = {
             }
         });
     },
-    updateHealthStatus: function(agent, status){
-        let statusList = this.getParameters(agent, 'health') ? this.getParameters(agent, 'health') : []
-        statusList.push(status);
-        console.log(statusList);
+    initResults: function () {
+        return {
+            'TEST_0': undefined,
+            'TEST_1': undefined,
+            'TEST_2': undefined
+        };
+    },
+    updateHealthStatus: function (agent, state, healthStatus) {
+        let parameters = this.getParameters(agent, 'health').statusMap;
+        let statusMap = parameters ? parameters : this.initResults();
+
+        statusMap[state] = healthStatus;
+
         agent.context.set({
             'name': 'health',
             'lifespan': 10,
-            'parameters': statusList
+            'parameters': {
+                'statusMap': statusMap
+            }
         });
     },
-    getNextState: function(state){
-        console.log("sadfas:" + state);
+    getNextState: function (state) {
         let stateNum = parseInt(state.substring(state.length - 1, state.length));
         return 'TEST_' + (stateNum + 1);
+    },
+    getHealthStatus: function (agent) {
+        let statusMap = this.getParameters(agent, 'health').statusMap;
+        statusCounter = 0;
+
+        Object.keys(statusMap).forEach(function(key) {
+            if (o[key])
+                statusCounter++;
+        });
+        return statusCounter < 2;
     }
 };
 

@@ -11,6 +11,7 @@ const handler = {
         intentMap.set('Default Welcome Intent', handler.welcome);
         intentMap.set('Default Fallback Intent', handler.fallback);
         intentMap.set('Test Intent', handler.test);
+        intentMap.set('Leitstelle', handler.connectHotline);
         intentMap.set('Yes Intent', handler.yes);
         intentMap.set('No Intent', handler.no);
         return intentMap;
@@ -42,20 +43,24 @@ const handler = {
         HelperFunctions.setState(agent, 'TEST_0');
         agent.add(T.getMessage(agent, 'TEST_INTRO') + ' ' + T.getMessage(agent, 'TEST_0'));
     },
+    connectHotline: function(agent){
+        agent.add(T.getMessage(agent, 'CONNECT_HOTLINE'));
+    },
     yes: function(agent) {
-        console.log(HelperFunctions.getState(agent));
-
         let state = HelperFunctions.getState(agent);
         let nextState = HelperFunctions.getNextState(state)
         HelperFunctions.setState(agent, nextState);
-        //HelperFunctions.updateHealthStatus(agent, true);
+
+        HelperFunctions.updateHealthStatus(agent, state, true);
+
         if (!state){
             handler.fallback(agent);
         } else if (state == 'TEST_2')
-            agent.add(T.getMessage(agent, 'UNHEALTHY'));    
+            if (HelperFunctions.getHealthStatus(agent))
+                agent.add(T.getMessage(agent, 'HEALTHY'));  
+            else
+                agent.add(T.getMessage(agent, 'UNHEALTHY'));    
         else {
-            console.log("aaaa");
-            console.log(nextState);
             agent.add(T.getMessage(agent, nextState));
         }
     },

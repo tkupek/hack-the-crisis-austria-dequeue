@@ -20,4 +20,5 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     intentMap = faqHandler.registerHandler(intentMap);
 
     agent.handleRequest(intentMap);
+
 });
