@@ -7,5 +7,7 @@ module.exports = Object.freeze({
 
     testQuestions: ['TEST_0', 'TEST_1', 'TEST_2', 'TEST_3', 'TEST_4'],
     allowUnknownAnswer: ['TEST_1'],
-    maxPoints: 10
+    maxPoints: 10,
+
+    userInputMap: ['no', 'unknown', 'yes']
 });

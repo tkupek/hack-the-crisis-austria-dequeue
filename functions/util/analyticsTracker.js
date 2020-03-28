@@ -22,9 +22,7 @@ const AnalyticsTracker = {
     },
     trackIntent: function (agent) {
         if (!AnalyticsTracker.initVisitor(agent)) {
-            return new Promise(function (resolve, reject) {
-                resolve();
-            });
+            return;
         }
 
         let intent;
@@ -40,15 +38,11 @@ const AnalyticsTracker = {
         };
 
         console.log("track Intent" + intent);
-        return new Promise(function (resolve, reject) {
-            resolve(visitor.pageview(param).send());
-        });
+        visitor.pageview(param).send();
     },
     trackEvent: async function (agent, category, action, label) {
         if (!AnalyticsTracker.initVisitor(agent)) {
-            return new Promise(function (resolve) {
-                return resolve();
-            });
+            return;
         }
 
         let intent;
@@ -59,16 +53,14 @@ const AnalyticsTracker = {
         }
 
         let params = {
-            ec: "Event Category",
-            ea: "Event Action",
-            el: "…and a label",
-            ev: 42,
-            dp: "/contact"
+            ec: category,
+            ea: action,
+            el: label,
+            dp: intent
         };
 
-        return new Promise(function (resolve, reject) {
-            console.log("track Event" + JSON.stringify(params));
-        });
+        console.log("track Event" + JSON.stringify(params));
+        visitor.event(params).send();
     }
 };
 
