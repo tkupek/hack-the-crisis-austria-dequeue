@@ -49,7 +49,7 @@ const handler = {
     },
     unknown: function (agent) {
         let state = HelperFunctions.getState(agent);
-        if (!state || Config.allowUnknownAnswer.includes(state)) {
+        if (!state || !Config.allowUnknownAnswer.includes(state)) {
             ResponseBuilder.default(agent, 'FALLBACK_UNKNOWN');
             return
         }
@@ -57,13 +57,18 @@ const handler = {
         handler.updateHealthTest(agent, state, 1);
     },  
     updateHealthTest: function (agent, state, userStatus) {
-        let nextState = HelperFunctions.getNextState(state)
+        let nextState = HelperFunctions.getNextState(state);
         HelperFunctions.setState(agent, nextState);
         HelperFunctions.updateHealthStatus(agent, state, userStatus);
 
         if (state === Config.testQuestions[Config.testQuestions.length - 1]) {
             let result = HelperFunctions.getHealthStatus(agent);
             ResponseBuilder.healthTestResponse(agent, result, state, userStatus);
+            HelperFunctions.clearSession(agent);
+
+            if(result === 'UNHEALTHY') {
+                // TODO here comes the redirect to the hotline
+            }
         } else {
             ResponseBuilder.healthTestResponse(agent, nextState, state, userStatus);
         }

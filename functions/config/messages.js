@@ -28,12 +28,12 @@ const messages = {
             'TEST_2': 'Haben Sie Fieber über 38°C?',
             'TEST_3': 'Haben Sie trockenen Husten?',
             'TEST_4': 'Haben Sie Atemschwierigkeiten bzw. Kurzatmigkeit?',
-            'UNHEALTHY': 'Sie könnten eine Infektion mit dem Corona-Virus haben. Es ist daher vorgesehen Sie Patienten weiter zu untersuchen, um eine Infektion ausschließen zu können. Wir leiten sie jetzt an die zuständige Stelle weiter. Bitte warten.',
-            'RISK': 'Sie könnten eine Infektion mit dem Corona-Virus haben. Melden Sie sich bitte umgehend mit dem persönlichen Code 4-2-1-7 bei der nächsten Teststelle.',
-            'HEALTHY': 'Sie scheine keine Infektion mit dem Corona-Virus zu haben. Bitte beachten Sie die Regeln der verlautbarten Quarantäne-Verordnungen!',
-            'QUARANTINE': 'Zur Erfassung ihrer aktuellen Daten leiten wir sie an die zuständige Stelle weiter. Bitte warten.',
+            'UNHEALTHY': 'Sie könnten eine Infektion mit dem Corona-Virus haben. Es ist daher vorgesehen Sie weiter zu untersuchen, um eine Infektion ausschließen zu können. Wir leiten sie jetzt an die zuständige Stelle weiter. Bitte warten. Die Demo endet hier.',
+            'RISK': 'Sie könnten eine Infektion mit dem Corona-Virus haben. Melden Sie sich bitte umgehend mit dem persönlichen Code 4-2-1-7 bei der nächsten Teststelle. Wenn Sie keine weiteren Fragen haben, legen Sie bitte einfach auf.',
+            'HEALTHY': 'Sie scheine keine Infektion mit dem Corona-Virus zu haben. Bitte beachten Sie die Regeln der verlautbarten Quarantäne-Verordnungen! Wenn Sie keine weiteren Fragen haben, legen Sie bitte einfach auf.',
+            'QUARANTINE': 'Zur Erfassung ihrer aktuellen Daten leiten wir sie an die zuständige Stelle weiter. Bitte warten. Die Demo endet hier.',
             'FAQ_INTRO': 'Bei welcher Frage kann ich helfen?',
-            'CONNECT_HOTLINE': 'Wir leiten Sie jetzt an die Gesundsheitsnummer weiter. Bitte warten',
+            'CONNECT_HOTLINE': 'Wir leiten Sie jetzt an die Gesundsheitsnummer weiter. Bitte warten. Die Demo endet hier.',
             'MORE_QUESTIONS': ' Haben Sie weitere Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne?'
         }
     }

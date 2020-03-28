@@ -22,6 +22,7 @@ const HelperFunctions = {
     },
     getState: function (agent) {
         let context = agent.context.get('states');
+        if(!context || !context.parameters) { return undefined}
         return context.parameters.state
     },
     setState: function (agent, state) {
@@ -77,6 +78,18 @@ const HelperFunctions = {
         else if (risk <= 0.33)
             return 'HEALTHY';
         return 'RISK';
+    },
+    clearSession(agent) {
+        agent.context.set({
+            'name': 'health',
+            'lifespan': 0,
+            'parameters': {}
+        });
+        agent.context.set({
+            'name': 'states',
+            'lifespan': 0,
+            'parameters': {}
+        });
     }
 };
 

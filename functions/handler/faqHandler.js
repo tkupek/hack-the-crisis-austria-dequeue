@@ -1,5 +1,6 @@
 const T = require('../util/translationManager');
 const ResponseBuilder = require('../util/responseBuilder');
+const HelperFunctions = require('../util/helperFunctions');
 
 const handler = {
     registerHandler: function(intentMap) {
@@ -25,56 +26,82 @@ const handler = {
         intentMap.set('Connect Hotline', handler.connectHotline);
         return intentMap;
     },
+    getFAQExtension: function(agent, text) {
+        let state = HelperFunctions.getState(agent);
+        if (state) {
+            text += ' ' + T.getMessage(agent, state);
+        } else {
+            text += ' ' + T.getMessage(agent, 'MORE_QUESTIONS')
+        }
+        return text;
+    },
     dangerZone: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_DANGER_ZONE') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_DANGER_ZONE'));
+        ResponseBuilder.defaultText(agent, text);
     },
     pregnant: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_PREGNANT') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_PREGNANT'));
+        ResponseBuilder.defaultText(agent, text);
     },
     testAnimals: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_TEST_ANIMALS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_TEST_ANIMALS'));
+        ResponseBuilder.defaultText(agent, text);
     },
     infectedAnimals: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_INFECTED_ANIMALS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_INFECTED_ANIMALS'));
+        ResponseBuilder.defaultText(agent, text);
     },
     closeContact: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CLOSE_CONTACT') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_CLOSE_CONTACT'));
+        ResponseBuilder.defaultText(agent, text);
     },
     food: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_FOOD') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_FOOD'));
+        ResponseBuilder.defaultText(agent, text);
     },
     riskgroup: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_RISKGROUP') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_RISKGROUP'));
+        ResponseBuilder.defaultText(agent, text);
     },
     activity: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_ACTIVITY') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_ACTIVITY'));
+        ResponseBuilder.defaultText(agent, text);
     },
     coronaTest: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CORONA_TEST') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_CORONA_TEST'));
+        ResponseBuilder.defaultText(agent, text);
     },
     coronaTestNoSymptoms: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CORONA_TEST_NO_S') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_CORONA_TEST_NO_S'));
+        ResponseBuilder.defaultText(agent, text);
     },
     coronaTestCosts: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_CORONA_TEST_COSTS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_CORONA_TEST_COSTS'));
+        ResponseBuilder.defaultText(agent, text);
     },
     employment: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_EMPLOYMENT') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_EMPLOYMENT'));
+        ResponseBuilder.defaultText(agent, text);
     },
     treatment: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_TREATMENT') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_TREATMENT'));
+        ResponseBuilder.defaultText(agent, text);
     },
     events: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_EVENTS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_EVENTS'));
+        ResponseBuilder.defaultText(agent, text);
     },
     regulations: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_REGULATIONS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_REGULATIONS'));
+        ResponseBuilder.defaultText(agent, text);
     },
     masks: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_MASKS') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_MASKS'));
+        ResponseBuilder.defaultText(agent, text);
     },
     border: function(agent) {
-        ResponseBuilder.defaultText(agent, (T.getMessage(agent, 'FAQ_BORDER') + ' ' + T.getMessage(agent, 'MORE_QUESTIONS')));
+        let text = handler.getFAQExtension(agent, T.getMessage(agent, 'FAQ_BORDER'));
+        ResponseBuilder.defaultText(agent, text);
     },
     quarantine: function(agent) {
         ResponseBuilder.default(agent, 'QUARANTINE');
@@ -83,6 +110,7 @@ const handler = {
         ResponseBuilder.default(agent, 'FAQ_INTRO');
     },
     connectHotline: function (agent) {
+        // TODO here comes the redirect to the hotline
         ResponseBuilder.default(agent, 'CONNECT_HOTLINE');
     }
 };
