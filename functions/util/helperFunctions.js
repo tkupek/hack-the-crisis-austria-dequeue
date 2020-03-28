@@ -69,6 +69,7 @@ const HelperFunctions = {
             }
         });
 
+        // TODO: maxPoints set to 10, maybe reset to 9
         risk = points / Config.maxPoints;
 
         if (risk >= 0.66)
