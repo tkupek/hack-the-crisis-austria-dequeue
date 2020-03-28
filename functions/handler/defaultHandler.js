@@ -55,7 +55,7 @@ const handler = {
 
         if (!state){
             handler.fallback(agent);
-        } else if (state == 'TEST_2')
+        } else if (state === 'TEST_2')
             if (HelperFunctions.getHealthStatus(agent))
                 agent.add(T.getMessage(agent, 'HEALTHY'));  
             else

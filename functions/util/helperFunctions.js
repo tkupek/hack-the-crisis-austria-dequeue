@@ -45,11 +45,12 @@ const HelperFunctions = {
     },
     getHealthStatus: function (agent) {
         let statusMap = this.getParameters(agent, 'health').statusMap;
-        statusCounter = 0;
+        let statusCounter = 0;
 
         Object.keys(statusMap).forEach(function(key) {
-            if (o[key])
+            if (statusMap[key]){
                 statusCounter++;
+            }
         });
         return statusCounter < 2;
     }
