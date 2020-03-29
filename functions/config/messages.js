@@ -1,7 +1,7 @@
 const messages = {
     'de': {
         translation: {
-            'WELCOME': 'Willkommen bei der Corona Gesundheitsnummer. Um Allgemeine Fragen zu stellen antworten Sie mit \'Allgemeine Fragen\', um einen Selbsttest zu starten antworten Sie mit \'Test starten\'.',
+            'WELCOME': 'Willkommen bei der Corona Gesundheitsnummer. Um allgemeine Fragen zu stellen, antworten Sie mit \'Allgemeine Fragen\', um einen Selbsttest zu starten antworten Sie mit \'Test starten\'.',
             'FALLBACK': 'Entschuldigung, das habe ich leider nicht verstanden. Sagen Sie \'verbinden\', um direkt mit der Gesundsheitsnummer verbunden zu werden.',
             'FALLBACK_UNKNOWN': 'Bitte antworten Sie mit Ja, Nein oder Vielleicht.',
             'HELP': 'Haben Sie allgemeine Fragen, einen Verdacht auf Infektion oder sind Sie unter Quarantäne? Sagen Sie \'verbinden\', um direkt mit der Gesundsheitsnummer verbunden zu werden.',
