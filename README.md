@@ -5,7 +5,7 @@ This code was created during the *Hack-The-Crisis 2020 - Austria* Hackathon.
 
 
 # Introduction Video
-[TODO]()
+[https://youtu.be/0dYPjQi38m8](https://youtu.be/0dYPjQi38m8)
 
 
 # Team
@@ -40,4 +40,6 @@ The phone call is handled by [Voximplant](https://voximplant.com/), a cloud comm
 
 
 # Outline
-TODO, Hackathon result & next steps
+Unfortunately, we did not reach the final round of the Hackathon.
+
+If you are interested in this or a similar solution, feel free to reach out.
