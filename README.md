@@ -1,5 +1,5 @@
-# Hack The Crisis - Austria
-**"We automated the Corona health hotline!"**
+# Hack The Crisis 2020 - Austria
+**"We automate the Corona health hotline!"**
 
 This code was created during the *Hack-The-Crisis 2020 - Austria* Hackathon.
 
