@@ -1,0 +1,151 @@
+[
+  {
+    "id": "fad2c80e-64db-4d32-809e-d35a9c4897cd",
+    "data": [
+      {
+        "text": "muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Mundschutz tragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9a8c2fba-479d-4445-8132-e6d7ecebef33",
+    "data": [
+      {
+        "text": "Was hilft Mundschutz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "43da3b4e-4087-44ee-ba66-25b789a3362a",
+    "data": [
+      {
+        "text": "Gibt es noch Schutzmasken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5d992abd-db5f-478f-8a68-b731fd468ace",
+    "data": [
+      {
+        "text": "Was bringen Atemmasken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2aeaab77-842c-4eb5-88be-714f4a222175",
+    "data": [
+      {
+        "text": "Helfen Mudnschutzmasken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2b4f37ac-8cc5-48a0-8eda-d900c19153a9",
+    "data": [
+      {
+        "text": "Wo bekomme ich Atemschutzmasken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "69ef2388-2d62-4432-9e4e-f39a376c3ea1",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "Masken",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sinnvoll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "45f433f6-3444-4847-9a17-e9246759fe8b",
+    "data": [
+      {
+        "text": "Helfen ",
+        "userDefined": false
+      },
+      {
+        "text": "masken",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8535fc2c-97dd-428c-949a-8534225ecc7d",
+    "data": [
+      {
+        "text": "Wo kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "masken",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kaufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

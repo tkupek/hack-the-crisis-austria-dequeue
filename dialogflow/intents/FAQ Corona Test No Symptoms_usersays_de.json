@@ -1,0 +1,87 @@
+[
+  {
+    "id": "41176a34-76b0-47cd-b36c-7157ecd2deda",
+    "data": [
+      {
+        "text": "testen ohne Symptome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b46470cf-cd94-4365-a7b1-83c81752ef1e",
+    "data": [
+      {
+        "text": "Ich habe keine Sypmtome aber ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " mich testen  lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "90e21ea2-43ab-4f86-9571-b5b2b7aaa231",
+    "data": [
+      {
+        "text": "Kann ich auch ohne symptome getestet werden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "51c0d660-5b7f-4335-a5bc-fbac9ca1347d",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Test ohne Sypmtome sinnvoll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dacad4d1-13e5-42c7-ae83-c55273d03113",
+    "data": [
+      {
+        "text": "Warum werden Personen ohne Symptome nicht getestet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

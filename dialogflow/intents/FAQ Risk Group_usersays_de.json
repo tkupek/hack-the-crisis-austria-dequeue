@@ -1,0 +1,89 @@
+[
+  {
+    "id": "294dd068-96ec-4160-8443-f8d9f1c7753f",
+    "data": [
+      {
+        "text": "Risikogruppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "978ff1e0-7244-40a0-8da5-d15bbb415a63",
+    "data": [
+      {
+        "text": "Wer ist in der Risikogruppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2bfe321b-d484-4fcf-923a-1e7832f8259b",
+    "data": [
+      {
+        "text": "Ab ",
+        "userDefined": false
+      },
+      {
+        "text": "wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist man in der Risikogruppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e97aae03-bea5-4569-a7b1-3c42ecb49326",
+    "data": [
+      {
+        "text": "Gehöre ich zur Risikogruppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cfe58355-31d0-4c30-890d-526f3efc0647",
+    "data": [
+      {
+        "text": "Bin ich in der Risikogruppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6ab67f7e-f146-4e66-8c02-493eb11f52a5",
+    "data": [
+      {
+        "text": "Welche Personen zählen zur Risikogruppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

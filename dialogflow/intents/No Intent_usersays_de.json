@@ -1,0 +1,104 @@
+[
+  {
+    "id": "bd51dae1-4953-4512-9260-d9244329286d",
+    "data": [
+      {
+        "text": "nope",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0f8c8809-8893-4db3-a87f-323f90b63e4e",
+    "data": [
+      {
+        "text": "nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "24b89708-8e8d-4b15-85f1-517853498ac1",
+    "data": [
+      {
+        "text": "fix ",
+        "userDefined": false
+      },
+      {
+        "text": "nit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "811ca983-b6a5-492e-bd0a-0da7be5614fd",
+    "data": [
+      {
+        "text": "na",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "745f5782-5b6b-473e-82a2-3a9fefdf3a10",
+    "data": [
+      {
+        "text": "nene",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "feae05a6-fc7f-4649-823b-d711e8bba741",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5c1ddcc6-2e18-4024-b734-ba96699ad75a",
+    "data": [
+      {
+        "text": "nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

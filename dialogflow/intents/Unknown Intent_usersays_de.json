@@ -1,0 +1,173 @@
+[
+  {
+    "data": [
+      {
+        "text": "nicht das ich wüsste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9295d97f-ac3d-4b11-aac9-ea6e1a098955",
+    "data": [
+      {
+        "text": "weniger",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "56699ff4-c5dc-468c-83b0-2be29ae85fc7",
+    "data": [
+      {
+        "text": "etwas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "75489721-8e14-4c7e-bc28-561025b4d70f",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "587dfd8c-ec74-4336-8186-a1b56c3cce9a",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a1accc5f-6a25-4a9c-bb56-8a450d55ff8b",
+    "data": [
+      {
+        "text": "kann sein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "edce2927-68c5-4632-a398-05364fd08722",
+    "data": [
+      {
+        "text": "eventuell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f26948c6-1dc8-4deb-8f88-873661955e4c",
+    "data": [
+      {
+        "text": "keine Idee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bf3f87c4-7526-4584-be7b-401e22fec61a",
+    "data": [
+      {
+        "text": "unsicher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "43c1d800-f8db-4549-8f5c-9d848c80f4b0",
+    "data": [
+      {
+        "text": "ich bin mir unsicher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "973da53e-2d78-48ae-9277-afe1769bbc78",
+    "data": [
+      {
+        "text": "weiß",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b0e450cd-f9b6-4ef2-b2a3-220183ef780e",
+    "data": [
+      {
+        "text": "keine Ahnung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "id": "c8674358-82a6-4545-a27f-60035d4d7ba4",
+    "data": [
+      {
+        "text": "darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine party",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " veranstalten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c372cb0b-1c35-4e00-9de0-d41762b3db66",
+    "data": [
+      {
+        "text": "sind aktivitäten im Freien erlaubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "33d9f46b-fe98-4229-9be5-aced1752d2d3",
+    "data": [
+      {
+        "text": "ist ",
+        "userDefined": false
+      },
+      {
+        "text": "radfahren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " erlaubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "66046e0a-9914-40d1-87ba-6245d7715e8b",
+    "data": [
+      {
+        "text": "ist ",
+        "userDefined": false
+      },
+      {
+        "text": "joggen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " erlaubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ff937478-c64b-416a-993b-4d13869523da",
+    "data": [
+      {
+        "text": "Darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "radfahren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "37f78d04-c185-46fd-9d79-2b8f5b96761d",
+    "data": [
+      {
+        "text": "Darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "joggen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1634376a-b9c4-44af-b532-6a47e29e0855",
+    "data": [
+      {
+        "text": "Darf ich spazieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5db879cd-4292-4dea-8890-85a3300a1efb",
+    "data": [
+      {
+        "text": "Darf ich Freunde besuchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9617505c-5646-478d-a687-51c5cbdeed33",
+    "data": [
+      {
+        "text": "Darf man ins Freie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e45998a3-8b9c-4aec-ba56-18371a79d801",
+    "data": [
+      {
+        "text": "Darf man ",
+        "userDefined": false
+      },
+      {
+        "text": "raus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3298f8ad-5039-4896-b483-d96303c23c57",
+    "data": [
+      {
+        "text": "Was darf man noch tun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dbdd195c-ce3a-4115-a803-80bfa14088fe",
+    "data": [
+      {
+        "text": "Welche Aktivitäten sind erlaubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

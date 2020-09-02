@@ -1,0 +1,159 @@
+[
+  {
+    "id": "0885d104-395c-4d09-bdd6-397cd0e122fc",
+    "data": [
+      {
+        "text": "corona",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " behandlung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fcd88fb9-2605-4f54-9c64-b45c88371d3d",
+    "data": [
+      {
+        "text": "wie sieht ",
+        "userDefined": false
+      },
+      {
+        "text": "die behandlung",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bei ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "37b41f10-3bc7-4bc9-90ae-36cf5eccb630",
+    "data": [
+      {
+        "text": "was muss ich nehmen wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e5ec7f86-1d8b-4c87-bdd4-ffa7c6019ff8",
+    "data": [
+      {
+        "text": "welche medikamente helfen bei ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "11c65283-5c22-4866-a24a-781d330a894c",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Impfstoff gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "36f3fe23-0328-41f9-9a76-8fb7d9380cbf",
+    "data": [
+      {
+        "text": "Was muss ich tun wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "05b10de1-b40a-4eab-ab0c-43469ecd6bb8",
+    "data": [
+      {
+        "text": "Wie wird die Krankheit behandelt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

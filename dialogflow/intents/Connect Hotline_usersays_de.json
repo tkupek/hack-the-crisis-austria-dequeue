@@ -1,0 +1,189 @@
+[
+  {
+    "id": "a8eee616-ade8-4960-a1c6-8d29ba3f45a3",
+    "data": [
+      {
+        "text": "Notfallnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d373aa6a-a880-41f7-82b1-6a577c28d440",
+    "data": [
+      {
+        "text": "es ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Notfall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4a16bb71-26cc-4e68-9730-9e1f84b0e1dc",
+    "data": [
+      {
+        "text": "ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Notfall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fb48ed4c-05d5-4edf-b70c-fbed93b65aba",
+    "data": [
+      {
+        "text": "Notfall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "716f6677-744b-46db-b2fe-aab6ddd8fcb2",
+    "data": [
+      {
+        "text": "zur Leitstelle verbinden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1e5f6b0e-44a4-4c7d-b5a8-dd29070f3ea7",
+    "data": [
+      {
+        "text": "zur Hotline verbinden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "de23623b-d11f-4557-abc3-6e235f857d00",
+    "data": [
+      {
+        "text": "zur Gesundheitsnummer verbinden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fe6cc827-94ca-467f-955e-498c787f4d63",
+    "data": [
+      {
+        "text": "mit der Gesundheitsnummer sprechen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "20bbc64d-4dba-40db-88eb-321bd44d59bd",
+    "data": [
+      {
+        "text": "ich möchte mit der Gesundheitsnummer sprechen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "afd37bfe-0e6b-4f05-a138-27b8887baccd",
+    "data": [
+      {
+        "text": "ich möchte zur Gesundheitsnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f5088d0e-c064-4575-a7ab-8bc6dc90c654",
+    "data": [
+      {
+        "text": "verbinden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3d5b409e-109b-471f-8040-4dcd6ffa602c",
+    "data": [
+      {
+        "text": "ich möchte mit der Leitstelle verbunden werden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "71a57b68-28c7-421f-8447-dbfec498cc7d",
+    "data": [
+      {
+        "text": "Leitstelle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

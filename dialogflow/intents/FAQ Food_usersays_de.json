@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "text": "Kann ich mich über Nahrung infizieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "67c9fc57-fb80-42a2-aaae-cba94693a82e",
+    "data": [
+      {
+        "text": "Besteht die Gefahr ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infektion über ",
+        "userDefined": false
+      },
+      {
+        "text": "Lebensmittel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "84a8abe3-b24a-402b-a32d-3641f55ee673",
+    "data": [
+      {
+        "text": "Lebensmittel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ecf29d8d-6f30-4da4-9360-4cf4f4e89e06",
+    "data": [
+      {
+        "text": "Wie lange überlegt der virus auf Lebensmitteln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "05b726b9-f686-4175-8578-fbf4c9852ec3",
+    "data": [
+      {
+        "text": "Wird ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " über ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " übertragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2350c24d-960c-43cf-b7ad-0ad8bd3f78b4",
+    "data": [
+      {
+        "text": "Kann ich beim ",
+        "userDefined": false
+      },
+      {
+        "text": "Einkaufen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bekommen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f37433b5-6c90-4de3-99cb-adbb9e1d7b17",
+    "data": [
+      {
+        "text": "Kann der Virus über ",
+        "userDefined": false
+      },
+      {
+        "text": "Lebensmittel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " übertragen werden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

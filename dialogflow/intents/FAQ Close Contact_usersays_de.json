@@ -1,0 +1,95 @@
+[
+  {
+    "id": "95d5e7ba-3405-4f60-8516-80b9348cb539",
+    "data": [
+      {
+        "text": "was bedeutet ",
+        "userDefined": false
+      },
+      {
+        "text": "looser",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kontakt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f9f59b01-5f49-4b1b-b264-b8979a42d965",
+    "data": [
+      {
+        "text": "wie ",
+        "userDefined": false
+      },
+      {
+        "text": "eng",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein enger",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kontakt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3fda35da-885c-4a40-88dc-922f8fe377d3",
+    "data": [
+      {
+        "text": "enger",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kontakt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "929c26d8-6942-4a72-a9f7-1cc23e5b27d4",
+    "data": [
+      {
+        "text": "was bedeutet ",
+        "userDefined": false
+      },
+      {
+        "text": "enger",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kontakt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

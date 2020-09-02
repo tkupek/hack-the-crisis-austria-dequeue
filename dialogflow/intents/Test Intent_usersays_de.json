@@ -1,0 +1,194 @@
+[
+  {
+    "data": [
+      {
+        "text": "ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mich selbst testen lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c501e1fb-3e68-43e9-b9f0-8a0b9866ef4c",
+    "data": [
+      {
+        "text": "selbsttest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "80414833-1e81-4010-91db-aaa79fb12b93",
+    "data": [
+      {
+        "text": "mach ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "64ed5b71-ff3f-44bd-92a8-4ffe5b76e9dd",
+    "data": [
+      {
+        "text": "ich möchte mich testen lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ca4ac8a2-6f1f-48ba-afbd-f05bbe980288",
+    "data": [
+      {
+        "text": "ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Test machen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "594e752f-0885-4648-ab37-f504a191c335",
+    "data": [
+      {
+        "text": "Infektionstest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "222fc8c0-3552-4475-a289-b60ecd759d44",
+    "data": [
+      {
+        "text": "Verdacht auf Infektion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d6008fca-c6c5-4504-a270-3b168bab7cbe",
+    "data": [
+      {
+        "text": "habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b6b4022f-5647-4429-850b-567dd82ab6d7",
+    "data": [
+      {
+        "text": "check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "98d5f1f5-ee21-460b-a616-f556405d24b4",
+    "data": [
+      {
+        "text": "Gesundheitscheck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b75d9f92-84cc-48f0-ab27-3f9d02c7102d",
+    "data": [
+      {
+        "text": "test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "43b8b52c-3b5f-42cb-91d8-92cf8bdc9cfa",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

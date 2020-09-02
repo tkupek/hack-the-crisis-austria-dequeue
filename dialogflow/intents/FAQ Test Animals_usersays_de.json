@@ -1,0 +1,181 @@
+[
+  {
+    "id": "1d4ad0bc-793f-4c96-a244-9a6a403d996b",
+    "data": [
+      {
+        "text": "Test für meinen ",
+        "userDefined": false
+      },
+      {
+        "text": "Hund",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f6a77993-11ad-4320-9f24-97a98f0933be",
+    "data": [
+      {
+        "text": "ich möchte mein Haustier testen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d9600d3c-4838-48b8-a31a-478389d97f02",
+    "data": [
+      {
+        "text": "ich möchte meine Katze testen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b8d16e39-60df-49bc-94ba-db0963520f5d",
+    "data": [
+      {
+        "text": "ich möchte meinen ",
+        "userDefined": false
+      },
+      {
+        "text": "Hund",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " testen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7a9f8d09-9e20-4cff-9fc4-109ed3c1e2a2",
+    "data": [
+      {
+        "text": "Haustier testen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d8144f4b-c9c9-4d31-8ee6-49fb5022d8b0",
+    "data": [
+      {
+        "text": "kann ich mein Tier testen lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cf47cab0-5fe3-4bb7-babf-304969716fd5",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tests für ",
+        "userDefined": false
+      },
+      {
+        "text": "Haustiere",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e8dd72cf-b9a5-4dfe-be5f-179c99cdcfee",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tests für ",
+        "userDefined": false
+      },
+      {
+        "text": "Katzen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c8167cd6-4383-43d6-9b52-5faf0f58225f",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tests für ",
+        "userDefined": false
+      },
+      {
+        "text": "Hunde",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "aff5ea37-6e16-4b0a-b5ab-54aa8aef8593",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tests für Tiere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

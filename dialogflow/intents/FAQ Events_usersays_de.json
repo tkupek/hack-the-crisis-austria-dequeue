@@ -1,0 +1,161 @@
+[
+  {
+    "id": "8ec645e2-f666-480a-899b-d2b2bd451855",
+    "data": [
+      {
+        "text": "wie sieht es mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Veranstaltungen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1de0285c-96f4-4ad7-943a-cdc0cfaf4e61",
+    "data": [
+      {
+        "text": "kann meine Veranstaltung stattfinden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "584575fa-57e6-4ef3-9929-147e56f2374d",
+    "data": [
+      {
+        "text": "Veranstaltungen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a7ee3872-e68c-43e1-a856-c06f6e7f6ca4",
+    "data": [
+      {
+        "text": "darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " privates ",
+        "userDefined": false
+      },
+      {
+        "text": "Konzert",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " veranstaltuen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "81ebae58-0aee-4e40-a245-7ddfecf42043",
+    "data": [
+      {
+        "text": "Welche Festivals finden statt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9cbe7f4b-2aa3-4598-b0ef-b7ef7b16bc0d",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscheen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "38a9dff4-d55b-4ae1-b74b-8260df2d55b1",
+    "data": [
+      {
+        "text": "Darf man in ",
+        "userDefined": false
+      },
+      {
+        "text": "die Kirche",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c706f36c-a3c6-4de2-9a47-b15c9f5d88d4",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Veranstaltungen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stattfinden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

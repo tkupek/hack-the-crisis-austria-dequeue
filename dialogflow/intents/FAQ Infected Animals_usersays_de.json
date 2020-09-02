@@ -1,0 +1,204 @@
+[
+  {
+    "data": [
+      {
+        "text": "kann mein haustier ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ba90d5ea-e391-48b5-a3b3-bf9f155e54c9",
+    "data": [
+      {
+        "text": "kann meine katze ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bekommen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "75174311-3e4f-4073-9e5f-3d0f2f57e49b",
+    "data": [
+      {
+        "text": "kann mein ",
+        "userDefined": false
+      },
+      {
+        "text": "hund",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bekommen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "03fe0f34-8624-4197-af2a-45b58596cc67",
+    "data": [
+      {
+        "text": "können ",
+        "userDefined": false
+      },
+      {
+        "text": "katzen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " erkranken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5c223547-7ec2-400d-98be-25b9047f268a",
+    "data": [
+      {
+        "text": "können ",
+        "userDefined": false
+      },
+      {
+        "text": "hunde",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " erkranken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bfcf1e33-4053-4232-8f7c-a4867c20575e",
+    "data": [
+      {
+        "text": "können ",
+        "userDefined": false
+      },
+      {
+        "text": "haustiere",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menschen mit ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " infizieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "71ea29ca-0be5-41dc-bed9-e039538cb051",
+    "data": [
+      {
+        "text": "können tiere menschen mit ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " infizieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b2f00eb6-816a-4f86-bf17-da1d4fdf2048",
+    "data": [
+      {
+        "text": "können tiere an COVID-19 erkranken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

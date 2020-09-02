@@ -1,0 +1,73 @@
+[
+  {
+    "id": "851043e6-afbc-4af6-8b22-04caecacb18b",
+    "data": [
+      {
+        "text": "Ausgangsbeschränkung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9ec93f6e-4a3e-45c9-9844-1c657f21f32c",
+    "data": [
+      {
+        "text": "Ausgangssperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e9ad173e-e8a1-4f63-958c-93ace25f0a7b",
+    "data": [
+      {
+        "text": "Was passiert bei Verstoß gegen rechtliche Regulierungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "60bfaebf-ed19-49b0-a3f4-c910173bb94f",
+    "data": [
+      {
+        "text": "Wie ist die gesetzliche ",
+        "userDefined": false
+      },
+      {
+        "text": "Lage",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5c81b7cb-ff77-451c-97de-05b96227b0cc",
+    "data": [
+      {
+        "text": "Welche rechtlichen Regulierungen gibt es",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

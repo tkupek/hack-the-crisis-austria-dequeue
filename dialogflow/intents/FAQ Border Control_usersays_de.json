@@ -1,0 +1,232 @@
+[
+  {
+    "id": "aeeae677-8688-43b2-a0b8-795c98cdcfe4",
+    "data": [
+      {
+        "text": "Grenzkontrollen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b47901cd-d97d-413c-9d32-ff7a3af0a0d6",
+    "data": [
+      {
+        "text": "Was brauche ich um die Grenzen zu passieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c6491f0b-b5e1-41ef-8e16-bd59ab3decb5",
+    "data": [
+      {
+        "text": "Wie lange muss ",
+        "userDefined": false
+      },
+      {
+        "text": "man an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " den Grenzen warten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4a20670e-59ad-42e7-8274-ec928885f431",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "die Grenzen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "27df2c27-5bfb-40ba-bb46-918398263ff4",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "der Brenner",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "044676f9-38a5-4f60-ab8b-5e483443be6e",
+    "data": [
+      {
+        "text": "Kann ich nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fahren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7b88f93e-1886-46bf-a2b6-96f79c58b973",
+    "data": [
+      {
+        "text": "Was muss ich beachten wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Österreich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " verlasse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "199f4307-eda7-4ec8-9df1-8b5bca985597",
+    "data": [
+      {
+        "text": "Gibt es Probleme bei der Einreise nach ",
+        "userDefined": false
+      },
+      {
+        "text": "österreich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "829a0f3e-5033-4c32-8bd7-440dd7a1ef40",
+    "data": [
+      {
+        "text": "Kann ich die österreichische Grenze übertreten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "87c4752a-d048-4639-9b80-11a1ba2271fa",
+    "data": [
+      {
+        "text": "Komme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "von",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "der Schweiz",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Österreich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "eb90cc2c-c7c9-4b00-9a39-4bab8cc35797",
+    "data": [
+      {
+        "text": "Kann ich nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Österreich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " einreisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

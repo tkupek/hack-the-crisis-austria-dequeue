@@ -1,0 +1,133 @@
+[
+  {
+    "id": "898be7a0-9110-440e-b2a8-0d75a933a5c7",
+    "data": [
+      {
+        "text": "informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3fff6139-1741-4b5b-bd50-14a0dba882fb",
+    "data": [
+      {
+        "text": "ich habe weitere Fragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ff80272c-a61c-4fba-b3c9-f2baad19f086",
+    "data": [
+      {
+        "text": "ich möchte etwas wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b4a5f919-3a4f-4a61-a135-b4711ec99738",
+    "data": [
+      {
+        "text": "ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "ewas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zu ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5ce5fcc7-59d8-4e14-90dd-f2d0da75c452",
+    "data": [
+      {
+        "text": "ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Frage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8822e7c8-6bbf-4e6f-82f9-c8d0756de010",
+    "data": [
+      {
+        "text": "ich habe Fragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0f1a66de-eea0-4063-8fc1-0bd3e5881102",
+    "data": [
+      {
+        "text": "allgemeine Fragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ad7258c4-aafc-4340-a1f4-4b2340d06b9b",
+    "data": [
+      {
+        "text": "ich habe allgemeine Fragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

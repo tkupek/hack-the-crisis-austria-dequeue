@@ -1,0 +1,89 @@
+[
+  {
+    "id": "6b13a0f8-5cef-4630-a7c8-16019cd962ca",
+    "data": [
+      {
+        "text": "Definition Risikogebiet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "64369ea7-68d8-4bf0-a6fb-6c1f79af3519",
+    "data": [
+      {
+        "text": "was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Risikogebiet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ee82a44f-0dc7-4a12-8d00-379df54851cf",
+    "data": [
+      {
+        "text": "Gefahrengebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "85ddfa98-ad8c-489d-9f61-aaa26e2fe5b2",
+    "data": [
+      {
+        "text": "wo sind Risikogebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "442acad7-dbc6-47d4-819a-183a47138091",
+    "data": [
+      {
+        "text": "was sind Risikogebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2396f29c-1295-44e7-bb0f-6bad9126a458",
+    "data": [
+      {
+        "text": "Risikogebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

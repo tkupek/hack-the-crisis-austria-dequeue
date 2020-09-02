@@ -1,0 +1,156 @@
+[
+  {
+    "id": "a47ba79f-171c-4068-8127-21d41f65138d",
+    "data": [
+      {
+        "text": "eher schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3e280491-8809-41ed-9730-5ff1031b44d8",
+    "data": [
+      {
+        "text": "logisch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "981cdf5d-0c38-4a2e-bd66-76072f09e34a",
+    "data": [
+      {
+        "text": "klar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "108f0b10-8520-454a-8f7a-e737c66e94fa",
+    "data": [
+      {
+        "text": "sicherlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5ac5add9-6b7b-4025-8a5a-967a99802981",
+    "data": [
+      {
+        "text": "ist ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "06c4acd8-8b5e-4e59-bbc1-56f0e490f0be",
+    "data": [
+      {
+        "text": "stimmt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "97e8e354-2d6c-48ef-b23b-c59b9e29efc8",
+    "data": [
+      {
+        "text": "leider ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1930e830-93bf-4d1a-86b7-2b99f15950d6",
+    "data": [
+      {
+        "text": "fix",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "25410cd2-0d0a-4e38-9f69-4684844203ec",
+    "data": [
+      {
+        "text": "sowas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " von",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c56bb02a-c814-4c45-9ace-a69f1d3d0cc4",
+    "data": [
+      {
+        "text": "sicher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ec26244b-e6d7-49e0-96dc-3d5c66551182",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

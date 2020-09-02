@@ -1,0 +1,28 @@
+[
+  {
+    "id": "808c536e-1cfb-4bb4-b121-60b1df775646",
+    "data": [
+      {
+        "text": "was soll ich tun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0c308852-29a6-48a1-a4ef-2bd33b935d29",
+    "data": [
+      {
+        "text": "hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c91c686b-d149-49b4-90b4-f8d89ccc0871",
+    "data": [
+      {
+        "text": "Probleme bei Schwangerschaft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "04f36da6-f844-4d9d-95b8-2dc62ad09ce4",
+    "data": [
+      {
+        "text": "haben Schwangere ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "462b9fef-5281-483c-a3e5-47b460a9a33b",
+    "data": [
+      {
+        "text": "habe ich als Schwangere ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7efa1c7e-0927-496e-835d-733ba8fdd483",
+    "data": [
+      {
+        "text": "wie wirkt sich das Virus auf Schwangere aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2c1950b0-a6f1-4606-a861-0f11d638fc05",
+    "data": [
+      {
+        "text": "ich bin schwanger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bcb9a5e5-a27c-4788-9361-c57580c5cd9c",
+    "data": [
+      {
+        "text": "schwanger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

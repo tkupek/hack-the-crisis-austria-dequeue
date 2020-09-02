@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d4856791-fa51-40d0-beca-03224aa52df9",
+    "data": [
+      {
+        "text": "ärztliche Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7b9ae663-2df4-4a89-851d-84b61a740b44",
+    "data": [
+      {
+        "text": "ärztlich verordneter Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ea88fc1f-499a-4ee6-82c6-dd9222516c3a",
+    "data": [
+      {
+        "text": "Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0488f2d1-0035-4c19-befe-7cab94fc0716",
+    "data": [
+      {
+        "text": "ich stehe unter Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "daeb7414-9537-4a7d-9f48-e16227370960",
+    "data": [
+      {
+        "text": "ich bin unter Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

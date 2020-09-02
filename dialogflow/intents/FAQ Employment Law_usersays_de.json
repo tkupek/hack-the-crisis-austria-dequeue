@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ef628ed5-3662-4aa8-bcfa-cc9ba2f5a7d6",
+    "data": [
+      {
+        "text": "Bekomme ich Arbeitslosengeld",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "468f24c2-2f0f-4168-a274-4a9a4352c339",
+    "data": [
+      {
+        "text": "Was bedeutet Kurzarbeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "269ac4fc-6d63-43ef-8c6c-7ee3cf8a4d4c",
+    "data": [
+      {
+        "text": "Gibt es Untersütztung bei Arbeitslosigkeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "87861c6f-cf2c-46d3-8afc-f36ced950bb8",
+    "data": [
+      {
+        "text": "Ich bin Arbeitslos was nun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f305d7ca-aa25-4c49-be98-9b0cf169b1f3",
+    "data": [
+      {
+        "text": "Wie ist das Arbeitsrechtlich geregelt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]
